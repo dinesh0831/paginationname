@@ -1,0 +1,21 @@
+.row >*
+{
+    border: solid 1px black;
+    color:black;
+    height: 2rem;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    align-content: center;
+   
+}
+.pagination
+{
+    justify-content: center;
+    margin-top: 5rem;
+}
+.first
+{
+    width: 80%;
+    margin-top: 5rem;
+}
